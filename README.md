@@ -1,5 +1,4 @@
-# Lebenslauf Peter Hase
-============
+<ins># Lebenslauf Peter Hase</ins>
 
 
 Schulbildung
@@ -11,6 +10,7 @@ seit 2020
 
 Arbeitserfahrung
 ----------
+
 seit 2020
 :   **CC4 Remarketing GmbH, Denzlingen & Securaze, Wien** Webentwickler (Full Stack)
 2019-2020
