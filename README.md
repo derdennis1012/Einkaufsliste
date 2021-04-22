@@ -1,5 +1,6 @@
 # Lebenslauf Peter Hase
 
+![Profilbild](img.jpeg)
 
 Schulbildung
 ---------
